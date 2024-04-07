@@ -1,15 +1,15 @@
 douyin:
-  url:
-  music:
-  lyric:
-  cover:
-  desc:
+  url: https://v.douyin.com/iFemNNTW/
+  music: yes
+  lyric: yes
+  cover: yes
+  desc: yes
   path:
-  folderize:
-  mode:
+  folderize: yes
+  mode: post
   naming:
   cookie:
-  interval:
+  interval: all
   timeout:
   max_retries:
   max_connections:

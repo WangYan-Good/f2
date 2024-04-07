@@ -25,22 +25,22 @@ douyin:
     dy_swidth=2560; dy_sheight=1440; csrf_session_id=86390e9f362d07a8fb377be7cb0b2c4f;
     =douyin.com; device_web_cpu_core=4; device_web_memory_size=-1; architecture=amd64;
     passport_fe_beating_status=true
-  cover: true
-  desc: true
-  folderize: true
-  interval: all
   lyric: true
   max_connections: 5
   max_counts: 0
   max_retries: 5
   max_tasks: 10
-  mode: post
-  music: true
   naming: '{create}_{desc}'
   page_counts: 20
   path: /mnt/share/md/md10/Vedio
   timeout: 10
-  url: https://v.douyin.com/iY6ChY9k/
+  url: https://v.douyin.com/iFemNNTW/
+  music: yes
+  cover: yes
+  desc: yes
+  folderize: yes
+  mode: post
+  interval: all
 tiktok:
   cookie: null
   max_connections: 5
