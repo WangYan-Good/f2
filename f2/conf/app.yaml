@@ -1,30 +1,31 @@
 douyin:
-  cookie: passport_csrf_token=fc2846c886c10f7c3e9b66a5301bde0e; passport_csrf_token_default=fc2846c886c10f7c3e9b66a5301bde0e;
-    FORCE_LOGIN=%7B%22videoConsumedRemainSeconds%22%3A180%7D; passport_assist_user=Ckv2TwsOLdyUHynQciil7YpOOgJSkaCpCefO95CFpFHzXb5d-XknNLCguKgl7Fu_jDJ913jPQJFooXg63f_0TMxRiY96b-_9v83dargaSgo8EWzJXPSl4PzELDOnEDH8b1my7zLlbePdjfWtL3FCS6a2eMIHZ7U-vYel1p6qvA0OLD9avwsjBb1KdIXXEI36zQ0Yia_WVCABIgEDN-ugZA%3D%3D;
-    n_mh=9-mIeuD4wZnlYrrOvfzG3MuT6aQmCUtmr8FxV8Kl8xY; sso_uid_tt=54043ae86c47dccc1ebf11bafd2d9a78;
-    sso_uid_tt_ss=54043ae86c47dccc1ebf11bafd2d9a78; toutiao_sso_user=1b6a51bc391283d3e973895160d265c7;
-    toutiao_sso_user_ss=1b6a51bc391283d3e973895160d265c7; sid_ucp_sso_v1=1.0.0-KDliNjY3ODMzY2Y1ZTAxZGJmMGE0MGI5MmY1NWY2NDAzZjZkZDVhNmUKHwi3jLD6ic2IBBC95sWwBhjvMSAMMP_op6QGOAZA9AcaAmhsIiAxYjZhNTFiYzM5MTI4M2QzZTk3Mzg5NTE2MGQyNjVjNw;
-    ssid_ucp_sso_v1=1.0.0-KDliNjY3ODMzY2Y1ZTAxZGJmMGE0MGI5MmY1NWY2NDAzZjZkZDVhNmUKHwi3jLD6ic2IBBC95sWwBhjvMSAMMP_op6QGOAZA9AcaAmhsIiAxYjZhNTFiYzM5MTI4M2QzZTk3Mzg5NTE2MGQyNjVjNw;
-    passport_auth_status=832a749c454460b4629a62448df5c4ad%2C; passport_auth_status_ss=832a749c454460b4629a62448df5c4ad%2C;
-    LOGIN_STATUS=1; _bd_ticket_crypt_doamin=2; _bd_ticket_crypt_cookie=c6e30fbb1d88dc0698feb5010ab56b2e;
-    __security_server_data_status=1; sid_guard=bde621695d330b5a3423e83bcd3053f7%7C1712419654%7C5183994%7CWed%2C+05-Jun-2024+16%3A07%3A28+GMT;
-    uid_tt=7cf1c5826a7974a7f69e69d80784425b; uid_tt_ss=7cf1c5826a7974a7f69e69d80784425b;
-    sid_tt=bde621695d330b5a3423e83bcd3053f7; sessionid=bde621695d330b5a3423e83bcd3053f7;
-    sessionid_ss=bde621695d330b5a3423e83bcd3053f7; sid_ucp_v1=1.0.0-KDg1YjdkMzZlNDllMWQyOGM3ZTVkY2ExNDkxNjI2NDkzZmY1MjcwMTEKGwi3jLD6ic2IBBDG5sWwBhjvMSAMOAZA9AdIBBoCbHEiIGJkZTYyMTY5NWQzMzBiNWEzNDIzZTgzYmNkMzA1M2Y3;
-    ssid_ucp_v1=1.0.0-KDg1YjdkMzZlNDllMWQyOGM3ZTVkY2ExNDkxNjI2NDkzZmY1MjcwMTEKGwi3jLD6ic2IBBDG5sWwBhjvMSAMOAZA9AdIBBoCbHEiIGJkZTYyMTY5NWQzMzBiNWEzNDIzZTgzYmNkMzA1M2Y3;
-    publish_badge_show_info=%220%2C0%2C0%2C1712419661112%22; stream_player_status_params=%22%7B%5C%22is_auto_play%5C%22%3A0%2C%5C%22is_full_screen%5C%22%3A0%2C%5C%22is_full_webscreen%5C%22%3A0%2C%5C%22is_mute%5C%22%3A0%2C%5C%22is_speed%5C%22%3A1%2C%5C%22is_visible%5C%22%3A1%7D%22;
-    FOLLOW_NUMBER_YELLOW_POINT_INFO=%22MS4wLjABAAAA9a5GULdiI4DHYg4W3VXQ-XIWjvEtOYtYT7ZAN6M-yeYRKb5wUibHyPIkB4r3Cahe%2F1712462400000%2F1712419709944%2F1712419651387%2F0%22;
-    pwa2=%220%7C0%7C0%7C1%22; volume_info=%7B%22isUserMute%22%3Afalse%2C%22isMute%22%3Atrue%2C%22volume%22%3A0.4%7D;
-    strategyABtestKey=%221712496598.668%22; store-region=cn-sh; store-region-src=uid;
-    ttwid=1%7CT3C-dHRs1_uiTozgWRiIggHzi3Wf52D4orda0O4G45Y%7C1712419540%7Cd26c3b6c423e9a55f9bee239538b406d1367370ba29e966abb1cc8b4ca1a20a4;
-    home_can_add_dy_2_desktop=%220%22; stream_recommend_feed_params=%22%7B%5C%22cookie_enabled%5C%22%3Atrue%2C%5C%22screen_width%5C%22%3A2560%2C%5C%22screen_height%5C%22%3A1440%2C%5C%22browser_online%5C%22%3Atrue%2C%5C%22cpu_core_num%5C%22%3A4%2C%5C%22device_memory%5C%22%3A0%2C%5C%22downlink%5C%22%3A%5C%22%5C%22%2C%5C%22effective_type%5C%22%3A%5C%22%5C%22%2C%5C%22round_trip_time%5C%22%3A0%7D%22;
-    IsDouyinActive=false; bd_ticket_guard_client_data=eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCSXBrNm4rTWNqYWZ5WkJrNUlBOWtObkJhbDJkdmdtU2hIN0ZhY29VdStLVGVLZzYra0RDWUZ6OGVOeE1oU2ZFNWdhWWpKUHFWV3ExY240VWQxSkswMGs9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoxfQ%3D%3D;
-    bd_ticket_guard_client_web_domain=2; msToken=RW7gC6ALMzv7R4VBcDs4WHSpGV87RJFfFUc2569hmsvDsLyZdFkkD-oQy4ndiWC-zm_qlii6F5gSVkw3-USkt6judxVRMmMX-DLLIcIN_MeF75NkhBZc9mcgNgne8g==;
-    GlobalGuideTimes=%221712496645%7C0%22; odin_tt=d147ef9d9bedaffbe633bfe5a7456b122d36d6ecb2ebc99d3b042117205f664cd4cc521b3fb4d5cfe051425a8b6ad6dc995e784da6e6c7d38c26f5b648dbba73;
-    __ac_nonce=066129fd10023cede90e6; __ac_signature=_02B4Z6wo00f01qoadcQAAIDDFYFWE4xGxYaqO3FAAMygc6;
-    dy_swidth=2560; dy_sheight=1440; csrf_session_id=86390e9f362d07a8fb377be7cb0b2c4f;
-    =douyin.com; device_web_cpu_core=4; device_web_memory_size=-1; architecture=amd64;
-    passport_fe_beating_status=true
+  cookie: FORCE_LOGIN=%7B%22videoConsumedRemainSeconds%22%3A180%7D; passport_csrf_token=6add0051656ae4e9463fb11c84ba7b13;
+    passport_csrf_token_default=6add0051656ae4e9463fb11c84ba7b13; strategyABtestKey=%221712504035.402%22;
+    volume_info=%7B%22isUserMute%22%3Afalse%2C%22isMute%22%3Afalse%2C%22volume%22%3A0.6%7D;
+    GlobalGuideTimes=%221712504089%7C0%22; IsDouyinActive=true; LOGIN_STATUS=1; __security_server_data_status=1;
+    _bd_ticket_crypt_cookie=7b992ee4e89b4acfd9f95761c500a9f0; _bd_ticket_crypt_doamin=2;
+    bd_ticket_guard_client_data=eyJiZC10aWNrZXQtZ3VhcmQtdmVyc2lvbiI6MiwiYmQtdGlja2V0LWd1YXJkLWl0ZXJhdGlvbi12ZXJzaW9uIjoxLCJiZC10aWNrZXQtZ3VhcmQtcmVlLXB1YmxpYy1rZXkiOiJCRWVwSHp5THlQSlBSdXgrY0JKbmpzbHhNSHFTV0JyMmQwKzR1dW1SVlo1ZzdHd3BNZWo0clpyWlZDd01nTXNqKzBIREswZTlDblJVWjUwQ200NWtDWTg9IiwiYmQtdGlja2V0LWd1YXJkLXdlYi12ZXJzaW9uIjoxfQ%3D%3D;
+    bd_ticket_guard_client_web_domain=2; n_mh=9-mIeuD4wZnlYrrOvfzG3MuT6aQmCUtmr8FxV8Kl8xY;
+    passport_assist_user=Cktg5XEPZBuDZRxyr9OsNiiwgXC_HylwzMDgXTKmOeDbPndY_OuAt2l7w_IRMxn66BxQYFw6bcNavvNInEclBDAeeYzAqrFFzUGJEMEaSgo8F-ef2dS2pRRP7clMU0-KOvhx0mwLhsNbOEnggcmrA5orSyajtktEFED9VcC8Zu1CsN-L5PDie1__d_ZoEM-Fzg0Yia_WVCABIgEDtXLs0w%3D%3D;
+    passport_auth_status=8ae6e0c7510551184fca87ec1eba85b4%2C; passport_auth_status_ss=8ae6e0c7510551184fca87ec1eba85b4%2C;
+    publish_badge_show_info=%220%2C0%2C0%2C1712504091744%22; sessionid=dbd25dbad45c679b9a00e97eeb6274b5;
+    sessionid_ss=dbd25dbad45c679b9a00e97eeb6274b5; sid_guard=dbd25dbad45c679b9a00e97eeb6274b5%7C1712504090%7C5183995%7CThu%2C+06-Jun-2024+15%3A34%3A45+GMT;
+    sid_tt=dbd25dbad45c679b9a00e97eeb6274b5; sid_ucp_sso_v1=1.0.0-KDM0ZjMzNDIyZjBkNzYzMmE2MzQ3NzZlYjMzNDhmNGY1YzI2Yjk0OTQKHwi3jLD6ic2IBBCT-sqwBhjvMSAMMP_op6QGOAZA9AcaAmxxIiBkYzIxNjkwNjM3ZWU2ZmEyNjU5YTVkNGZlNDcxMWE5MA;
+    sid_ucp_v1=1.0.0-KDYwMWFlY2EzOGRkODJhMTgzMzE5MTUxYjU4M2UwZWUzZWYzOWRmNmUKGwi3jLD6ic2IBBCa-sqwBhjvMSAMOAZA9AdIBBoCbHEiIGRiZDI1ZGJhZDQ1YzY3OWI5YTAwZTk3ZWViNjI3NGI1;
+    ssid_ucp_sso_v1=1.0.0-KDM0ZjMzNDIyZjBkNzYzMmE2MzQ3NzZlYjMzNDhmNGY1YzI2Yjk0OTQKHwi3jLD6ic2IBBCT-sqwBhjvMSAMMP_op6QGOAZA9AcaAmxxIiBkYzIxNjkwNjM3ZWU2ZmEyNjU5YTVkNGZlNDcxMWE5MA;
+    ssid_ucp_v1=1.0.0-KDYwMWFlY2EzOGRkODJhMTgzMzE5MTUxYjU4M2UwZWUzZWYzOWRmNmUKGwi3jLD6ic2IBBCa-sqwBhjvMSAMOAZA9AdIBBoCbHEiIGRiZDI1ZGJhZDQ1YzY3OWI5YTAwZTk3ZWViNjI3NGI1;
+    sso_uid_tt=1643b5f63db26b2bcca7bb8dd53e4752; sso_uid_tt_ss=1643b5f63db26b2bcca7bb8dd53e4752;
+    store-region=cn-sh; store-region-src=uid; stream_recommend_feed_params=%22%7B%5C%22cookie_enabled%5C%22%3Atrue%2C%5C%22screen_width%5C%22%3A2560%2C%5C%22screen_height%5C%22%3A1440%2C%5C%22browser_online%5C%22%3Atrue%2C%5C%22cpu_core_num%5C%22%3A4%2C%5C%22device_memory%5C%22%3A8%2C%5C%22downlink%5C%22%3A10%2C%5C%22effective_type%5C%22%3A%5C%224g%5C%22%2C%5C%22round_trip_time%5C%22%3A100%7D%22;
+    toutiao_sso_user=dc21690637ee6fa2659a5d4fe4711a90; toutiao_sso_user_ss=dc21690637ee6fa2659a5d4fe4711a90;
+    uid_tt=2839b5b971b9380776bae9655e71b6bc; uid_tt_ss=2839b5b971b9380776bae9655e71b6bc;
+    home_can_add_dy_2_desktop=%221%22; msToken=Ekvh3vbjLdnsWciL69l7vXn79rxt_aWIGt0s4v_ER0G74j7pmiKt2G-bLdZxZBfsemMns_0lf6BIAqvuGs7q4PIHYo6tVs44Q7sykG-UvVDFx2O1q2AwMykoaIH9eP2u;
+    my_rd=2; odin_tt=ec5f809aadd7332d8414dec8dc1b8998551dc362f4b814ac52adf6e2b41be5f4cee32f1666632d355bccc8dbd3e9c696;
+    stream_player_status_params=%22%7B%5C%22is_auto_play%5C%22%3A0%2C%5C%22is_full_screen%5C%22%3A0%2C%5C%22is_full_webscreen%5C%22%3A0%2C%5C%22is_mute%5C%22%3A0%2C%5C%22is_speed%5C%22%3A1%2C%5C%22is_visible%5C%22%3A1%7D%22;
+    ttwid=1%7C7AOAhcn2BZJ9cz7h5xzvQCvgNWMdwD_XdythLbJbUSo%7C1712504032%7C3400c755284f7bc0c35b382303f13ea07374d942373b1e9ff8643228b7015b03;
+    pwa2=%220%7C0%7C2%7C0%22; __ac_nonce=06612bce000c0cca03084; __ac_signature=_02B4Z6wo00f01dANMAwAAIDAdYPq5IRexUXQLTSAABIT09;
+    architecture=amd64; device_web_cpu_core=4; device_web_memory_size=8; tt_scid=c5RbzkkinxMBt9tEAn4SgFuIUw1IEqpZZB2XhwYPOxF79LGkyxLe5IzPcr51xXfff0d4;
+    ttcid=958ce47ef5ce48cb9a9ca2e4f248651d23; =douyin.com; csrf_session_id=86390e9f362d07a8fb377be7cb0b2c4f;
+    dy_sheight=1440; dy_swidth=2560; xg_device_score=6.979237670192787; passport_fe_beating_status=true
   cover: true
   desc: true
   folderize: true
@@ -40,7 +41,7 @@ douyin:
   page_counts: 20
   path: /mnt/share/md/md10/Vedio
   timeout: 10
-  url: https://v.douyin.com/iY6ChY9k/
+  url: https://v.douyin.com/iYkcV28K/
 tiktok:
   cookie: null
   max_connections: 5
