@@ -41,7 +41,7 @@ douyin:
   page_counts: 20
   path: /mnt/share/md/md10/Vedio
   timeout: 10
-  url: https://v.douyin.com/iYkcV28K/
+  url: https://v.douyin.com/iYkvSmAw/
 tiktok:
   cookie: null
   max_connections: 5
